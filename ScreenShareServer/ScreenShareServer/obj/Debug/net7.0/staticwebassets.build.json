@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YgwGtOIGOZR0e8O0PfCWabBkqtITfWT7O+/WfSH/9JM=",
+  "Source": "ScreenShareServer",
+  "BasePath": "_content/ScreenShareServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
